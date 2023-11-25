@@ -37,13 +37,13 @@
       "#676767"
     ],
     "BACKGROUND_PRIMARY": [
-      "#16171A"
+      "#FFDAD4"
     ],
     "BACKGROUND_SECONDARY": [
       "#16171A"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#27272A"
+      "##FFDAD4"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
@@ -52,7 +52,7 @@
       "#392E2C"
     ],
     "BACKGROUND_FLOATING": [
-      "1E1E1E"
+      "#FFDAD4"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#16171A"
