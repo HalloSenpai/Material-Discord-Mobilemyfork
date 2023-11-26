@@ -16,13 +16,13 @@
       "#EAEAEA"
     ],
     "TEXT_NORMAL": [
-      "#FFDAD4"
+      "#DEDEDE"
     ],
     "TEXT_MUTED": [
-      "#FFDAD4"
+      "#B9B9B9"
     ],
     "TEXT_LINK": [
-      "#FFDAD4"
+      "#FFD9D4"
     ],
     "INTERACTIVE_NORMAL": [
       "#B9B9B9"
@@ -37,22 +37,22 @@
       "#676767"
     ],
     "BACKGROUND_PRIMARY": [
-      "#FFDAD4"
+      "#16171A"
     ],
     "BACKGROUND_SECONDARY": [
       "#16171A"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "##FFDAD4"
+      "#27272A"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
     ],
     "BACKGROUND_ACCENT": [
-      "#392E2C"
+      "1E1E1E"
     ],
     "BACKGROUND_FLOATING": [
-      "#FFDAD4"
+      "1E1E1E"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#16171A"
@@ -82,7 +82,7 @@
       "#EAEAEA"
     ],
     "CHAT_BACKGROUND": [
-      "#392E2C"
+      "#16171A"
     ]
   },
   "plus": {
