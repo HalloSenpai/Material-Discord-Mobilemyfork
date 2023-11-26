@@ -49,16 +49,16 @@
       "#0f1012"
     ],
     "BACKGROUND_ACCENT": [
-      "1E1E1E"
+      "#a56b63"
     ],
     "BACKGROUND_FLOATING": [
       "1E1E1E"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#a56b63"
+      "#392E2C"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#a56b63"
+      "#392E2C"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#DEDEDE"
